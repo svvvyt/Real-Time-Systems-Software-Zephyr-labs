@@ -1,0 +1,99 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: Starting client-server app with multiple clients
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Client 0: data sent 0
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Client 1: data sent 100
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Client 2: data sent 200
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Handling data: 0 -> 0
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Handling data: 100 -> 300
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Handling data: 200 -> 600
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Client 0: result ready
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Client 1: result ready
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Client 2: result ready
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Client 0: data sent 20
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Client 1: data sent 120
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Client 2: data sent 220
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Handling data: 20 -> 60
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Handling data: 120 -> 360
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Handling data: 220 -> 660
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Client 0: result ready
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Client 1: result ready
+
+[0m
+
+[00:00:00.020,000] [0m<inf> my_module: Client 2: result ready
+
+[0m
+
+[00:00:00.040,000] [0m<inf> my_module: Client 0: data sent 40
+
+[0m
+
+[00:00:00.040,000] [0m<inf> my_module: Client 1: data sent 140
+
+[0m
+
+[00:00:00.040,000] [0m<inf> my_module: Client 2: data sent 240
+
+[0m
+
+[00:00:00.040,000] [0m<inf> my_module: Handling data: 40 -> 120
+
+[0m
+
+[00:00:00.040,000] [0m<inf> my_module: Handling data: 140 -> 420
+
+[0m
+
+[00:00:00.040,000] [0m<inf> my_module: Handling data: 240 -> 720

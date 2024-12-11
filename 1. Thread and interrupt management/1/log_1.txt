@@ -1,0 +1,7 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+Created thread with number: 5.
+
+Thread priority changed to 3.
+
+Thread is running.

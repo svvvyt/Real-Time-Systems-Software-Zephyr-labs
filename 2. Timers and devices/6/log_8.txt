@@ -1,0 +1,37 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: Starting device monitor example.[0m
+
+[00:00:00.000,000] [0m<inf> my_module: [Event Log]: Device monitoring started.[0m
+
+[00:00:00.000,000] [1;31m<err> my_module: Device failure detected! Consecutive failures: 1[0m
+
+[00:00:00.000,000] [0m<inf> my_module: [Event Log]: Device failure detected.[0m
+
+[00:00:03.010,000] [0m<inf> my_module: Device is functioning normally.[0m
+
+[00:00:06.020,000] [1;31m<err> my_module: Device failure detected! Consecutive failures: 1[0m
+
+[00:00:06.020,000] [0m<inf> my_module: [Event Log]: Device failure detected.[0m
+
+[00:00:09.030,000] [1;31m<err> my_module: Device failure detected! Consecutive failures: 2[0m
+
+[00:00:09.030,000] [0m<inf> my_module: [Event Log]: Device failure detected.[0m
+
+[00:00:12.040,000] [1;31m<err> my_module: Device failure detected! Consecutive failures: 3[0m
+
+[00:00:12.040,000] [0m<inf> my_module: [Event Log]: Device failure detected.[0m
+
+[00:00:12.040,000] [1;31m<err> my_module: Device is considered disconnected after 3 failures.[0m
+
+[00:00:12.040,000] [0m<inf> my_module: [Event Log]: Device disconnected.[0m
+
+[00:00:15.050,000] [1;31m<err> my_module: Device failure detected! Consecutive failures: 4[0m
+
+[00:00:15.050,000] [0m<inf> my_module: [Event Log]: Device failure detected.[0m
+
+[00:00:18.060,000] [0m<inf> my_module: Device reconnected and operational.[0m
+
+[00:00:18.060,000] [0m<inf> my_module: [Event Log]: Device reconnected.[0m
+
+[00:00:18.060,000] [0m<inf> my_module: Device is functioning normally.[0m

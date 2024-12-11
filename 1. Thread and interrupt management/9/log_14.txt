@@ -1,0 +1,21 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: Sent message to mailbox: 0[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Received message from mailbox: 0[0m
+
+[00:00:01.010,000] [0m<inf> my_module: Sent message to mailbox: 1[0m
+
+[00:00:01.010,000] [0m<inf> my_module: Received message from mailbox: 1[0m
+
+[00:00:02.020,000] [0m<inf> my_module: Sent message to mailbox: 2[0m
+
+[00:00:02.020,000] [0m<inf> my_module: Received message from mailbox: 2[0m
+
+[00:00:03.030,000] [0m<inf> my_module: Sent message to mailbox: 3[0m
+
+[00:00:03.030,000] [0m<inf> my_module: Received message from mailbox: 3[0m
+
+[00:00:04.040,000] [0m<inf> my_module: Sent message to mailbox: 4[0m
+
+[00:00:04.040,000] [0m<inf> my_module: Received message from mailbox: 4[0m

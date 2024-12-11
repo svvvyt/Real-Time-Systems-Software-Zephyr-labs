@@ -1,0 +1,51 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: Starting client-server app[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Data sent: 0[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Handling data: 0 -> 0
+
+[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Client received notification about result ready[0m
+
+[00:00:02.010,000] [0m<inf> my_module: Data sent: 10[0m
+
+[00:00:02.010,000] [0m<inf> my_module: Handling data: 10 -> 30
+
+[0m
+
+[00:00:02.010,000] [0m<inf> my_module: Client received notification about result ready[0m
+
+[00:00:04.020,000] [0m<inf> my_module: Data sent: 20[0m
+
+[00:00:04.020,000] [0m<inf> my_module: Handling data: 20 -> 60
+
+[0m
+
+[00:00:04.020,000] [0m<inf> my_module: Client received notification about result ready[0m
+
+[00:00:06.030,000] [0m<inf> my_module: Data sent: 30[0m
+
+[00:00:06.030,000] [0m<inf> my_module: Handling data: 30 -> 90
+
+[0m
+
+[00:00:06.030,000] [0m<inf> my_module: Client received notification about result ready[0m
+
+[00:00:08.040,000] [0m<inf> my_module: Data sent: 40[0m
+
+[00:00:08.040,000] [0m<inf> my_module: Handling data: 40 -> 120
+
+[0m
+
+[00:00:08.040,000] [0m<inf> my_module: Client received notification about result ready[0m
+
+[00:00:10.050,000] [0m<inf> my_module: Data sent: 50[0m
+
+[00:00:10.050,000] [0m<inf> my_module: Handling data: 50 -> 150
+
+[0m
+
+[00:00:10.050,000] [0m<inf> my_module: Client received notification about result ready[0m

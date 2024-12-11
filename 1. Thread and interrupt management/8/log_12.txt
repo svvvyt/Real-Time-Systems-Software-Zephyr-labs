@@ -1,0 +1,13 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> interrupt_test: Start program[0m
+
+[00:00:00.000,000] [0m<inf> interrupt_test: Lock all interrupts[0m
+
+[00:00:00.000,000] [0m<inf> interrupt_test: All interrupts are now locked, handling critical section[0m
+
+[00:00:00.500,000] [0m<inf> interrupt_test: Critical section over, unlocking interrupts[0m
+
+[00:00:00.500,000] [0m<inf> interrupt_test: Interrupts are now unlocked[0m
+
+[00:00:00.500,000] [0m<inf> interrupt_test: End program[0m

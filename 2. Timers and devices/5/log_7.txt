@@ -1,0 +1,11 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: System started. Begin handling device.[0m
+
+[00:00:00.000,000] [1;31m<err> my_module: Button device is not ready.[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Device is active.[0m
+
+[00:00:05.010,000] [0m<inf> my_module: Device deactivated.[0m
+
+[00:00:05.010,000] [0m<inf> my_module: Device is sleeping.[0m

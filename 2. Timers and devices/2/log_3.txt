@@ -1,0 +1,17 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: Starting timer for generating messages[0m
+
+[00:00:02.000,000] [0m<inf> my_module: Message received in 2000 time after system started[0m
+
+[00:00:04.000,000] [0m<inf> my_module: Message received in 4000 time after system started[0m
+
+[00:00:06.000,000] [0m<inf> my_module: Message received in 6000 time after system started[0m
+
+[00:00:08.000,000] [0m<inf> my_module: Message received in 8000 time after system started[0m
+
+[00:00:10.000,000] [0m<inf> my_module: Message received in 10000 time after system started[0m
+
+[00:00:12.000,000] [0m<inf> my_module: Message received in 12000 time after system started[0m
+
+[00:00:14.000,000] [0m<inf> my_module: Message received in 14000 time after system started[0m

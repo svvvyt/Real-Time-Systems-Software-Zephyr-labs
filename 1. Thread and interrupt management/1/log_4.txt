@@ -1,0 +1,51 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+Created main thread.
+
+Created child thread.
+
+Main thread state: queued.
+
+Child thread state: queued.
+
+Main thread, counter: 1.
+
+Child thread, counter: 2.
+
+Main thread, counter: 3.
+
+Child thread, counter: 4.
+
+Main thread, counter: 5.
+
+Child thread, counter: 6.
+
+Main thread, counter: 7.
+
+Main thread, counter: 8.
+
+Child thread, counter: 9.
+
+Main thread, counter: 10.
+
+Child thread, counter: 11.
+
+Main thread, counter: 12.
+
+Main thread, counter: 13.
+
+Child thread, counter: 14.
+
+Main thread, counter: 15.
+
+Child thread, counter: 16.
+
+Main thread, counter: 17.
+
+Main thread state: suspended.
+
+Child thread state: suspended.
+
+Main thread, counter: 18.
+
+Child thread, counter: 19.

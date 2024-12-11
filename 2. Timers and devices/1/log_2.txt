@@ -1,0 +1,21 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: Plan delayable work 5s ahead[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Main work[0m
+
+[00:00:02.010,000] [0m<inf> my_module: Main work[0m
+
+[00:00:04.020,000] [0m<inf> my_module: Main work[0m
+
+[00:00:05.010,000] [0m<inf> my_module: Executing delayable work[0m
+
+[00:00:06.030,000] [0m<inf> my_module: Main work[0m
+
+[00:00:08.040,000] [0m<inf> my_module: Main work[0m
+
+[00:00:10.050,000] [0m<inf> my_module: Main work[0m
+
+[00:00:12.060,000] [0m<inf> my_module: Main work[0m
+
+[00:00:14.070,000] [0m<inf> my_module: Main work[0m

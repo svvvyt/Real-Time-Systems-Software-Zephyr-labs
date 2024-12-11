@@ -1,0 +1,55 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+Created main thread, priority: 1.
+
+Created child thread, priority: 2.
+
+Main thread, counter: 1.
+
+Child thread, counter: 2.
+
+Child thread, counter: 3.
+
+Child thread, counter: 4.
+
+Child thread, counter: 5.
+
+Child thread, counter: 6.
+
+Child thread, counter: 7.
+
+Child thread, counter: 8.
+
+Child thread, counter: 9.
+
+Child thread, counter: 10.
+
+Child thread, counter: 11.
+
+Main thread, counter: 12.
+
+Child thread, counter: 13.
+
+Child thread, counter: 14.
+
+Child thread, counter: 15.
+
+Child thread, counter: 16.
+
+Child thread, counter: 17.
+
+Child thread, counter: 18.
+
+Child thread, counter: 19.
+
+Child thread, counter: 20.
+
+Child thread, counter: 21.
+
+Child thread, counter: 22.
+
+Main thread, counter: 23.
+
+Child thread, counter: 24.
+
+Child thread, counter: 25.

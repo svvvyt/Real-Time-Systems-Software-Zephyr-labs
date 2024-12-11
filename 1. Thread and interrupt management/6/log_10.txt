@@ -1,0 +1,37 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+Start time slice demo
+
+Time slice is now 200ms
+
+Thread with id 0 running
+
+Thread with id 1 running
+
+Thread with id 2 running
+
+Thread with id 0 running
+
+Thread with id 1 running
+
+Thread with id 2 running
+
+Thread with id 0 running
+
+Thread with id 1 running
+
+Thread with id 2 running
+
+Thread with id 0 running
+
+Thread with id 1 running
+
+Thread with id 2 running
+
+Thread with id 0 running
+
+Thread with id 1 running
+
+Thread with id 2 running
+
+End demo

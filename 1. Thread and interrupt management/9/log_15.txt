@@ -1,0 +1,21 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: Sent pipe data: test_msg[0m
+
+[00:00:01.010,000] [0m<inf> my_module: Sent pipe data: test_msg[0m
+
+[00:00:02.020,000] [0m<inf> my_module: Sent pipe data: test_msg[0m
+
+[00:00:03.030,000] [0m<inf> my_module: Sent pipe data: test_msg[0m
+
+[00:00:03.030,000] [0m<inf> my_module: Received pipe data: test_msg[0m
+
+[00:00:04.040,000] [0m<inf> my_module: Sent pipe data: test_msg[0m
+
+[00:00:05.050,000] [0m<inf> my_module: Sent pipe data: test_msg[0m
+
+[00:00:06.060,000] [0m<inf> my_module: Sent pipe data: test_msg[0m
+
+[00:00:07.070,000] [0m<inf> my_module: Sent pipe data: test_msg[0m
+
+[00:00:07.070,000] [0m<inf> my_module: Received pipe data: msg[0m

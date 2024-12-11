@@ -1,0 +1,33 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+Start thread scheduling test...
+
+Thread 0: counter = 1.
+
+Thread 1: counter = 2.
+
+Thread 2: counter = 3.
+
+Thread 0: counter = 4.
+
+Thread 1: counter = 5.
+
+Thread 2: counter = 6.
+
+Thread 0: counter = 7.
+
+Thread 1: counter = 8.
+
+Thread 2: counter = 9.
+
+Thread 0: counter = 10.
+
+Thread 1: counter = 11.
+
+Thread 2: counter = 12.
+
+Thread 0: counter = 13.
+
+Thread 1: counter = 14.
+
+Thread 2: counter = 15.
