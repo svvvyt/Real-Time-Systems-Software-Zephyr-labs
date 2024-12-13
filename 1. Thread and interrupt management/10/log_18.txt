@@ -1,0 +1,47 @@
+*** Booting Zephyr OS build v3.7.0-4232-g9b5260de9a31 ***
+
+[00:00:00.000,000] [0m<inf> my_module: Program started[0m
+
+[00:00:00.000,000] [0m<inf> my_module: All threads are created with deadlines set[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread 1 started[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 1 has just incremented counter: 0[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 1 has just incremented counter: 1[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 1 has just incremented counter: 2[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 1 has just incremented counter: 3[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 1 has just incremented counter: 4[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread 1 finished[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread 2 started[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 2 has just incremented counter: 0[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 2 has just incremented counter: 1[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 2 has just incremented counter: 2[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 2 has just incremented counter: 3[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 2 has just incremented counter: 4[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread 2 finished[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread 3 started[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 3 has just incremented counter: 0[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 3 has just incremented counter: 1[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 3 has just incremented counter: 2[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 3 has just incremented counter: 3[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread: 3 has just incremented counter: 4[0m
+
+[00:00:00.000,000] [0m<inf> my_module: Thread 3 finished[0m
