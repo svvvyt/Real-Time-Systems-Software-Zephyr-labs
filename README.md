@@ -36,6 +36,26 @@ source ~/zephyrproject/.venv/bin/activate
 west build -p auto -b native_posix my-zephyr-app -t run | tee log_output.txt
 ```
 
+## Repetative Workflow
+
+1. Activate the virtual python environment for Zephyr (performed from Zephyr root directory, once):
+
+```bash
+source ~/zephyrproject/.venv/bin/activate
+```
+
+2. Delete old `build` directory from Zephyr `root` directory (to delete old build configuration files left over from testing previous programs, if there were any);
+
+3. Change the file `/my-zephyr-app/src/main.c` to the current code of the program being tested; optionally change the file `/my-zephyr-app/prj.conf` if you need to change the build configuration in accordance with `main.c` (add logging modules, timeslicing, etc.);
+
+4. Build a new project with the current `main.c` and `prj.conf` files (saving the launch logs):
+
+```bash
+west build -p auto -b native_posix my-zephyr-app -t run | tee log_output.txt
+```
+
+5. Check the program output results and logs.
+
 ## Note
 
 If there is a `prj.conf` file in a certain directory, it should be used with files in that directory instead of main `prj.conf` in the root directory (in order for the program to work properly).
